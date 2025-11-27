@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styling — students can play with these! */
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* Change link color */
+a {
+  color: #0077cc;
+}
+
+/* Customize page title */
+h1, h2, h3 {
+  color: #333333;
+}
+
+/* Add padding */
+.page-content {
+  padding: 20px;
+}
